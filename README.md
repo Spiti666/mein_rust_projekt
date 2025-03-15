@@ -2,7 +2,7 @@ Single-File Rust Webserver – README (English)
 Overview
 This project demonstrates a futuristic-looking website served by a single Rust file using the Actix-Web framework. The layout and design are handled by HTML/CSS, while Actix-Web provides a fast, asynchronous web server in Rust.
 
-Features
+Features 
 Modern Design & Styling
 
 Dark/Light mode using CSS variables
