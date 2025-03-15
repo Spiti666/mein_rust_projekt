@@ -1,0 +1,8 @@
+[package]
+name = "mein_rust_projekt"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+slint = "1.10.0"
+actix-web = "4.4"
