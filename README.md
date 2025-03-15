@@ -17,7 +17,7 @@ This project is a **modern and futuristic web server** built using **Rust** and 
 ### 1️⃣ Prerequisites
 Make sure you have **Rust and Cargo** installed. If not, install Rust with:
 
-
+```sh
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 # 🚀 Rust Futuristic Webserver with Actix-Web
 
